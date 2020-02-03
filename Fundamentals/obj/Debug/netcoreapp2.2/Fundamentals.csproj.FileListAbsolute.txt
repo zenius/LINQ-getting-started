@@ -1,0 +1,11 @@
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.deps.json
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.runtimeconfig.json
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.runtimeconfig.dev.json
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.dll
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/bin/Debug/netcoreapp2.2/Fundamentals.pdb
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.csprojAssemblyReference.cache
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.csproj.CoreCompileInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.AssemblyInfoInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.AssemblyInfo.cs
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.dll
+/home/zenius/Desktop/LINQ-getting-started/Fundamentals/obj/Debug/netcoreapp2.2/Fundamentals.pdb

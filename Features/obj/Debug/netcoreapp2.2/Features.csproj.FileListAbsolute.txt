@@ -1,0 +1,11 @@
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.csprojAssemblyReference.cache
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.csproj.CoreCompileInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.AssemblyInfoInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.AssemblyInfo.cs
+/home/zenius/Desktop/LINQ-getting-started/Features/bin/Debug/netcoreapp2.2/Features.deps.json
+/home/zenius/Desktop/LINQ-getting-started/Features/bin/Debug/netcoreapp2.2/Features.runtimeconfig.json
+/home/zenius/Desktop/LINQ-getting-started/Features/bin/Debug/netcoreapp2.2/Features.runtimeconfig.dev.json
+/home/zenius/Desktop/LINQ-getting-started/Features/bin/Debug/netcoreapp2.2/Features.dll
+/home/zenius/Desktop/LINQ-getting-started/Features/bin/Debug/netcoreapp2.2/Features.pdb
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.dll
+/home/zenius/Desktop/LINQ-getting-started/Features/obj/Debug/netcoreapp2.2/Features.pdb

@@ -1,0 +1,11 @@
+/home/zenius/Desktop/LINQ-getting-started/Queries/bin/Debug/netcoreapp2.2/Queries.deps.json
+/home/zenius/Desktop/LINQ-getting-started/Queries/bin/Debug/netcoreapp2.2/Queries.runtimeconfig.json
+/home/zenius/Desktop/LINQ-getting-started/Queries/bin/Debug/netcoreapp2.2/Queries.runtimeconfig.dev.json
+/home/zenius/Desktop/LINQ-getting-started/Queries/bin/Debug/netcoreapp2.2/Queries.dll
+/home/zenius/Desktop/LINQ-getting-started/Queries/bin/Debug/netcoreapp2.2/Queries.pdb
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.csprojAssemblyReference.cache
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.csproj.CoreCompileInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.AssemblyInfoInputs.cache
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.AssemblyInfo.cs
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.dll
+/home/zenius/Desktop/LINQ-getting-started/Queries/obj/Debug/netcoreapp2.2/Queries.pdb
